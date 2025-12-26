@@ -14,7 +14,7 @@ data:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: rabbitmq
+  name: rabbitmq 
   namespace: roboshop
   # deployment labels
   labels:
